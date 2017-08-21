@@ -1,7 +1,6 @@
 <suite name="Suite">
 	<test name="Test">
-		<parameter name="node" value="http://192.168.43.14:4444/wd/hub" />
-		<parameter name="browser" value="chrome" />
+		
 		<classes>
 			<class name="com.testNG.Test_1" />
 			<class name="com.testNG.Test_2" />
